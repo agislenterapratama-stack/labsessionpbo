@@ -1,0 +1,17 @@
+=== Tahap 1: Class Logika ===
+Setelah 2 menu: subtotal = 45000.0, total = 45000.0
+Setelah 3 menu: subtotal = 70000.0, total = 63000.0
+Setelah reset: subtotal = 0.0
+
+=== Tahap 2: Dua Kasir sebagai Thread ===
+Kasir Dina melayani pelanggan ke-1
+Kasir Eko melayani pelanggan ke-1
+Kasir Dina melayani pelanggan ke-2
+Kasir Eko melayani pelanggan ke-2
+Kasir Dina melayani pelanggan ke-3
+Kasir Eko melayani pelanggan ke-3
+Kasir Dina melayani pelanggan ke-4
+Kasir Eko melayani pelanggan ke-4
+Kasir Dina melayani pelanggan ke-5
+Kasir Eko melayani pelanggan ke-5
+Semua pelanggan selesai dilayani
